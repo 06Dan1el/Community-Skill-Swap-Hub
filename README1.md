@@ -14,24 +14,16 @@ The community skill swap during the programming process has used a variety of fr
 
 - TYPESCRIPT: A typescript is a superset of Javascript which has been statically typed out which is then compiled to plain javascript. The Typescript was chosen for reasons such as its type safety. This means that the errors found in the program are found during the compile time and not the runtime of the code. The typescript has a better code documentation, hence a team of programmers are able to fully understand the data structures without the need to read the entire code, and it is able to identify null and undefined errors.
 
-- REACT ROUTER: The react router is the standard routing library which is used for react applications. The react router help with client side routing which for example no page reloads, which means the client is able to navigate between pages in the website  without any requests from the server. It provides a smooth 
+- REACT ROUTER: The react router is the standard routing library which is used for react applications. The react router help with client side routing which for example no page reloads, which means the client is able to navigate between pages in the website  without any requests from the server. It provides an app kind of experience which is smooth hence giving the user an instant navigation. It also provides URL management. The users are able to add bookmarks and also share pages that are specific.
 
-- **React Router** is the standard routing library for React applications.
-
-### Justifications:
-
-#### 1. **Client-Side Routing**
-
-- **No Page Reloads**: Navigate between pages without server requests
-- **Instant Navigation**: Smooth, app-like experience
-- **Preserved State**: Navigation doesn't reset global state
+- LUCIDE REACT: The lucid react is an open source icon library whihc is modern and contains react components. The reason for its use is due to the fact that it maintains a consistent design hence allowing for all icons to have the same language design. It also gives it a more professional appearance by making the icon styles look more clean. The lucid react also enhances the performance due to each of the icons used being from 1 to 2 kb, there are no large SVG files which are needed to be downloaded and it only loads icons that are to be used.
 
 
 
 
 ### Comparison with Alternative Front-End Technologies
  
- 
+
 ## Back-End Technologies
  
 ## Styling Framework
