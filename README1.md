@@ -7,12 +7,28 @@ The community skill swap during the programming process has used a variety of fr
 - **REACT ROUTER V6**
 - **LUCIDE REACT**
 
-**JUSTIFICATION**
--REACT: The react is a JavaScript library which is component based with the sole role of building user interfeaces and 
 
-is a component-based JavaScript library for building user interfaces, created and maintained by Meta (Facebook).
+#### **JUSTIFICATION**.
 
- 
+- REACT: The react is a JavaScript library which is component based with the sole role of building user interfeaces. This library has been cultivated and closely monitored by meta facebook. The react is able to break down the UI into more resuable components such as the navigation, tge resourcecard, the commentsection etc. There are new features which will be able to be added without anything affect or harm to the already existing components of the program. Every one of the components has been self contained and is therefore easier and simpler to do a debug. And the use of components such as forms, cards, and buttons has been used across various pages on the website, hence the code is reusable.
+
+- TYPESCRIPT: A typescript is a superset of Javascript which has been statically typed out which is then compiled to plain javascript. The Typescript was chosen for reasons such as its type safety. This means that the errors found in the program are found during the compile time and not the runtime of the code. The typescript has a better code documentation, hence a team of programmers are able to fully understand the data structures without the need to read the entire code, and it is able to identify null and undefined errors.
+
+- REACT ROUTER: The react router is the standard routing library which is used for react applications. The react router help with client side routing which for example no page reloads, which means the client is able to navigate between pages in the website  without any requests from the server. It provides a smooth 
+
+- **React Router** is the standard routing library for React applications.
+
+### Justifications:
+
+#### 1. **Client-Side Routing**
+
+- **No Page Reloads**: Navigate between pages without server requests
+- **Instant Navigation**: Smooth, app-like experience
+- **Preserved State**: Navigation doesn't reset global state
+
+
+
+
 ### Comparison with Alternative Front-End Technologies
  
  
