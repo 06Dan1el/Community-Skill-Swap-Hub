@@ -1,7 +1,17 @@
  
 # Choice of Tech Stack
 ## Front-End Technologies
- 
+The community skill swap during the programming process has used a variety of front end technologies. These include the following.
+- **REACT 18.2**
+- **TYPESCRIPT 5.3**
+- **REACT ROUTER V6**
+- **LUCIDE REACT**
+
+**JUSTIFICATION**
+-REACT: The react is a JavaScript library which is component based with the sole role of building user interfeaces and 
+
+is a component-based JavaScript library for building user interfaces, created and maintained by Meta (Facebook).
+
  
 ### Comparison with Alternative Front-End Technologies
  
