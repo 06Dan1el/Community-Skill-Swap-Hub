@@ -19,10 +19,8 @@ The community skill swap during the programming process has used a variety of fr
 - LUCIDE REACT: The lucid react is an open source icon library whihc is modern and contains react components. The reason for its use is due to the fact that it maintains a consistent design hence allowing for all icons to have the same language design. It also gives it a more professional appearance by making the icon styles look more clean. The lucid react also enhances the performance due to each of the icons used being from 1 to 2 kb, there are no large SVG files which are needed to be downloaded and it only loads icons that are to be used.
 
 
-
-
 ### Comparison with Alternative Front-End Technologies
- 
+Although there were other alternatives to be used in the place of the fllowing front end technologies used. These are the comparisons in which is the reason they were not used.
 
 ## Back-End Technologies
  
