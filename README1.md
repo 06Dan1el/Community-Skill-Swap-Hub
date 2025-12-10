@@ -22,6 +22,9 @@ The community skill swap during the programming process has used a variety of fr
 ### Comparison with Alternative Front-End Technologies
 Although there were other alternatives to be used in the place of the fllowing front end technologies used. These are the comparisons in which is the reason they were not used.
 
+- #### REACT: ALTERNATIVE
+A list of alternatives which had been considered in place of react include the following. **Vue.js**. The vue.js was not a suitable alternative due to it having less demand in the industry, and also having a smaller ecosystem compared to the react. **ANGULAR**. For angular, it has more much more steep learning curve, its also been seen as a bit excessive for a project such as this. **SVELTE**
+
 ## Back-End Technologies
  
 ## Styling Framework
