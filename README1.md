@@ -23,7 +23,13 @@ The community skill swap during the programming process has used a variety of fr
 Although there were other alternatives to be used in the place of the fllowing front end technologies used. These are the comparisons in which is the reason they were not used.
 
 - #### REACT: ALTERNATIVE
-A list of alternatives which had been considered in place of react include the following. **Vue.js**. The vue.js was not a suitable alternative due to it having less demand in the industry, and also having a smaller ecosystem compared to the react. **ANGULAR**. For angular, it has more much more steep learning curve, its also been seen as a bit excessive for a project such as this. **SVELTE**
+A list of alternatives which had been considered in place of react include the following. **Vue.js**. The vue.js was not a suitable alternative due to it having less demand in the industry, and also having a smaller ecosystem compared to the react. **ANGULAR**. For angular, it has more much more steep learning curve, its also been seen as a bit excessive for a project such as this. **SVELTE**. The SVELTE was not chosen due to is fewer libraries, It does not have much job market relevance, and it has a much smaller community. And finally **VANILLA JS** . This alternative was considered but not chosen due to how time consuming it is, it is harder and more difficult to maintain, and there are no component reusability. 
+
+- #### TYPESCRIPT: ALTERNATIVE
+A list of alternatives which had been considered in place of typescript include the following. **JAVASCRIPT**. The reason JavaScript was not chosen was due it not having any type safety, it is harder to maintain and it also has more runtime errors. Next was **FLOW**. The flow has a much smaller community compared to typescript, it is less popular and most importantly, meta has begone moving to typescript.
+
+- #### REACT ROUTER: ALTERNATIVE
+A list of alternatives which had been considered in place of react router include the following.
 
 ## Back-End Technologies
  
